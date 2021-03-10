@@ -11,7 +11,7 @@
 ## First Part
 - Your first assignment is to create an account with [FreeCodeCamp](https://www.freecodecamp.org/)
 - Once you have created your account you will be given options as to what level you would like to start with. You are to choose "start at the beginning".
-- You will dive into the secions of HTML & CSS
+- You will dive into the sections of HTML & CSS
 - Try to complete as much as you can before the first day of instruction
 - You should introduce yourself in your respective JR[cohortnumber] channel.
 - As you do this assignment please send screen shots of your progress to your instructor via DM on Slack
