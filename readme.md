@@ -12,7 +12,7 @@ Here is how to get started
   - These are real practice problems
   - You are now an official programmer
 - Your goal should be to FINISH the Basic HTML course work, and START the CSS coursework
-## Shay How Book 
+## Shay Howe Book 
 - This part is optional, but if you feel like you want to learn the concepts of html a little bit deeper head over to [Shayhowe](https://learn.shayhowe.com/)
 - You will see a button saying "Start Learning HTML & CSS". Hit that button and start reading!
 - Along with the reading there are exercises at the end of each chapter that you must follow along with. 
