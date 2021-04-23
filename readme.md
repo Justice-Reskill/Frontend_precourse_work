@@ -1,4 +1,5 @@
-# Welcome Justice Reskill students!
+# Welcome #JR4 Cohort. 
+
 # We want you all to know that you all belong here.
 ## Before beginning the program, you MUST do the following pre-course work 
 ## FreeCodeCamp
