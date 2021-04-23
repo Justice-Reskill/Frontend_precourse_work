@@ -1,19 +1,20 @@
-# Welcome #JR4 Cohort. 
+# Welcome Justice Reskill students to the #JR4 Cohort!
 
-# We want you all to know that you all belong here.
-## Before beginning the program, you MUST do the following pre-course work 
-## FreeCodeCamp
-FreeCodeCamp is an online tool for learning web development. They have thousands of hours of problems to solve in ideas ranging from HTML, CSS, Javascript, React, Algorithms and much more. Fortunately we only ask that you complete a small portion of that free coursework. 
-Here is how to get started
-- Head over to (Free Code Camp)[ https://freecodecamp.org ]. 
-- Join Free code camp with either your google account, github account, facebook account, or email address
-- Head to the Responsive Web Design course found at https://www.freecodecamp.org/learn/responsive-web-design/
-- Open up a problem in the "Basic HTML and HTML 5" course
-- Then click on some problems (starting with "Say Hello to HTML Elements") and solve them
-  - These are real practice problems
-  - You are now an official programmer
-- Your goal should be to FINISH the Basic HTML course work, and START the CSS coursework
-## Shay Howe Book 
-- This part is optional, but if you feel like you want to learn the concepts of html a little bit deeper head over to [Shayhowe](https://learn.shayhowe.com/)
-- You will see a button saying "Start Learning HTML & CSS". Hit that button and start reading!
-- Along with the reading there are exercises at the end of each chapter that you must follow along with. 
+*We want you all to know that you all belong here.*
+
+
+## Phase 0 Pre-work
+
+The #JR4 Cohort begins on April 26th with the Kickoff Call. 
+
+Here is a list of work that you must have completed by the first live class session on May 10. Please complete this in the order that it is displayed below. 
+
+1. [FreeCodeCamp Basic HTML + HTML5 Course](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5) [10-12 expected hrs]
+2. [FreeCodeCamp Basic Basic CSS Course](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css) [10-12 expected hrs]
+3. [ShayHowe - Basic HTML & CSS (Course 101)](https://learn.shayhowe.com/html-css) [8-10 expected hrs]
+4. [Coursera Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) [15 expected hrs]
+
+
+If you have any questions, post them in the [#technicalhelp](https://justicereskill.slack.com/archives/C018X6U84D8) Slack channel, the [#JR4](https://justicereskill.slack.com/archives/C01UVNH44N4) or reach out to the Student Experience Team. 
+
+###Once again welcome to Justice Reskill!
