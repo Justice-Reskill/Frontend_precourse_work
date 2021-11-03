@@ -15,6 +15,6 @@ Here is a list of work that you must have completed by the first live class sess
 4. [Coursera Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) [15 expected hrs]
 
 
-If you have any questions, post them in the [#technicalhelp](https://justicereskill.slack.com/archives/C018X6U84D8) Slack channel, the [#JR4](https://justicereskill.slack.com/archives/C01UVNH44N4) or reach out to the Student Experience Team. 
+If you have any questions, post them in the [#technicalhelp](https://justicereskill.slack.com/archives/C018X6U84D8) Slack channel, the [#arc-1&JR7](https://justicereskill.slack.com/archives/C01UVNH44N4) or reach out to the Student Experience Team. 
 
 ###Once again welcome to Justice Reskill!
