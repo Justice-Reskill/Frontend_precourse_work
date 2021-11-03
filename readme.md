@@ -1,13 +1,13 @@
-# Welcome Justice Reskill students to the #JR4 Cohort!
+# Welcome Justice Reskill students to the #arc-1&JR7 Cohort!
 
 *We want you all to know that you all belong here.*
 
 
 ## Phase 0 Pre-work
 
-The #JR4 Cohort begins on April 26th with the Kickoff Call. 
+The #arc-1&JR7 Cohort begins on November 15th with the Kickoff Call. 
 
-Here is a list of work that you must have completed by the first live class session on May 10. Please complete this in the order that it is displayed below. 
+Here is a list of work that you must have completed by the first live class session on November 15. Please complete this in the order that it is displayed below. 
 
 1. [FreeCodeCamp Basic HTML + HTML5 Course](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5) [10-12 expected hrs]
 2. [FreeCodeCamp Basic Basic CSS Course](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css) [10-12 expected hrs]
